@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/SubTracker.AdoNet/SubTracker.AdoNet.csproj" />
+    <Project Path="src/SubTracker.Console/SubTracker.Console.csproj" />
+    <Project Path="src/SubTracker.DB/SubTracker.DB.csproj" />
+    <Project Path="src/SubTracker.Domain/SubTracker.Domain.csproj" />
+  </Folder>
+</Solution>
