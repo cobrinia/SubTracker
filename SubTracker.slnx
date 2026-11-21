@@ -4,5 +4,6 @@
     <Project Path="src/SubTracker.Console/SubTracker.Console.csproj" />
     <Project Path="src/SubTracker.DB/SubTracker.DB.csproj" />
     <Project Path="src/SubTracker.Domain/SubTracker.Domain.csproj" />
+    <Project Path="src/SubTracker.Scaffolded/SubTracker.Scaffolded.csproj" />
   </Folder>
 </Solution>
